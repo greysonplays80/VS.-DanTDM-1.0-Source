@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="grim.png"><SubTexture name="grim Idle0000" x="0" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Idle0001" x="516" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Idle0002" x="1032" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Idle0003" x="1548" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Idle0004" x="2064" y="0" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Idle0005" x="0" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Left0000" x="516" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Left0001" x="1032" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Left0002" x="1548" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Left0003" x="2064" y="516" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Left0004" x="0" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Up0000" x="516" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Up0001" x="1032" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Up0002" x="1548" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Up0003" x="2064" y="1032" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Up0004" x="0" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Down0000" x="516" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Down0001" x="1032" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Down0002" x="1548" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Down0003" x="2064" y="1548" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Down0004" x="0" y="2064" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Right0000" x="516" y="2064" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Right0001" x="1032" y="2064" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Right0002" x="1548" y="2064" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Right0003" x="2064" y="2064" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+<SubTexture name="grim Right0004" x="0" y="2580" width="516" height="516" frameX="0" frameY="0" frameWidth="516" frameHeight="516" />
+</TextureAtlas>

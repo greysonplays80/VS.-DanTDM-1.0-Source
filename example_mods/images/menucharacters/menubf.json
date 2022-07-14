@@ -1,0 +1,10 @@
+{
+	"idle_anim": "menubf vibin",
+	"image": "menubf",
+	"position": [
+		-20,
+		130
+	],
+	"scale": 0.95,
+	"confirm_anim": "M Dad Idle"
+}

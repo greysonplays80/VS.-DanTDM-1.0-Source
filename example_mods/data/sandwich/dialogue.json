@@ -1,0 +1,18 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Make me a sandwich."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok."
+		}
+	]
+}

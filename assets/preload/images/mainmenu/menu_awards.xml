@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_awards.png"><SubTexture name="menu_awards awards basic0000" x="0" y="0" width="194" height="42" frameX="-8" frameY="0" frameWidth="210" frameHeight="42" />
+<SubTexture name="menu_awards awards white0000" x="0" y="0" width="194" height="42" frameX="-15" frameY="0" frameWidth="210" frameHeight="42" />
+</TextureAtlas>

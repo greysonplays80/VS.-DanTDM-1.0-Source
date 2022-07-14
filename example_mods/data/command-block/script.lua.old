@@ -1,0 +1,432 @@
+lastConductorPos = 0;
+function onSongStart()
+	ogposx0 = getPropertyFromGroup('opponentStrums', 0, 'x');
+	ogposy0 = getPropertyFromGroup('opponentStrums', 0, 'y');
+	ogposx1 = getPropertyFromGroup('opponentStrums', 1, 'x');
+	ogposy1 = getPropertyFromGroup('opponentStrums', 1, 'y');
+	ogposx2 = getPropertyFromGroup('opponentStrums', 2, 'x');
+	ogposy2 = getPropertyFromGroup('opponentStrums', 2, 'y');
+	ogposx3 = getPropertyFromGroup('opponentStrums', 3, 'x');
+	ogposy3 = getPropertyFromGroup('opponentStrums', 3, 'y');
+	ogposx4 = getPropertyFromGroup('playerStrums', 0, 'x');
+	ogposy4 = getPropertyFromGroup('playerStrums', 0, 'y');
+	ogposx5 = getPropertyFromGroup('playerStrums', 1, 'x');
+	ogposy5 = getPropertyFromGroup('playerStrums', 1, 'y');
+	ogposx6 = getPropertyFromGroup('playerStrums', 2, 'x');
+	ogposy6 = getPropertyFromGroup('playerStrums', 2, 'y');
+	ogposx7 = getPropertyFromGroup('playerStrums', 3, 'x');
+	ogposy7 = getPropertyFromGroup('playerStrums', 3, 'y');
+end
+function onUpdate(elapsed)
+	ballssimulatorroblox = getSongPosition();
+	if (47571.4285714286 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 47571.4285714286) then
+			noteTweenX('ballsGF', GF , ogposxGF + null, -alt , 'quadInOut');
+			noteTweenY('balls2GF', GF , ogposyGF + null, -alt , 'quadInOut');
+			noteTweenAngle('balls3GF', GF , null, -alt , 'quadInOut');
+			noteTweenAlpha('balls4GF', GF , null, -alt , 'quadInOut');
+		end
+	end
+if (48000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 48000) then
+			noteTweenX('ballsPressCommand', PressCommand , ogposxPressCommand + null, GF , 'quadInOut');
+			noteTweenY('balls2PressCommand', PressCommand , ogposyPressCommand + null, GF , 'quadInOut');
+			noteTweenAngle('balls3PressCommand', PressCommand , null, GF , 'quadInOut');
+			noteTweenAlpha('balls4PressCommand', PressCommand , null, GF , 'quadInOut');
+		end
+	end
+if (48321.4285714286 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 48321.4285714286) then
+			noteTweenX('ballsGF', GF , ogposxGF + null,  , 'quadInOut');
+			noteTweenY('balls2GF', GF , ogposyGF + null,  , 'quadInOut');
+			noteTweenAngle('balls3GF', GF , null,  , 'quadInOut');
+			noteTweenAlpha('balls4GF', GF , null,  , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls0', 0 , ogposx0 + 325, 0.5 , 'quadInOut');
+			noteTweenY('balls20', 0 , ogposy0 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls30', 0 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls40', 0 , 0, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls1', 1 , ogposx1 + 325, 0.5 , 'quadInOut');
+			noteTweenY('balls21', 1 , ogposy1 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls31', 1 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls41', 1 , 0, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls2', 2 , ogposx2 + 325, 0.5 , 'quadInOut');
+			noteTweenY('balls22', 2 , ogposy2 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls32', 2 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls42', 2 , 0, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls3', 3 , ogposx3 + 325, 0.5 , 'quadInOut');
+			noteTweenY('balls23', 3 , ogposy3 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls33', 3 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls43', 3 , 0, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls4', 4 , ogposx4 + -325, 0.5 , 'quadInOut');
+			noteTweenY('balls24', 4 , ogposy4 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls34', 4 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls44', 4 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls5', 5 , ogposx5 + -325, 0.5 , 'quadInOut');
+			noteTweenY('balls25', 5 , ogposy5 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls35', 5 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls45', 5 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls6', 6 , ogposx6 + -325, 0.5 , 'quadInOut');
+			noteTweenY('balls26', 6 , ogposy6 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls36', 6 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls46', 6 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (54857.1428571429 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 54857.1428571429) then
+			noteTweenX('balls7', 7 , ogposx7 + -325, 0.5 , 'quadInOut');
+			noteTweenY('balls27', 7 , ogposy7 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls37', 7 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls47', 7 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls0', 0 , ogposx0 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls20', 0 , ogposy0 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls30', 0 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls40', 0 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls1', 1 , ogposx1 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls21', 1 , ogposy1 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls31', 1 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls41', 1 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls2', 2 , ogposx2 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls22', 2 , ogposy2 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls32', 2 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls42', 2 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls3', 3 , ogposx3 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls23', 3 , ogposy3 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls33', 3 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls43', 3 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls5', 5 , ogposx5 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls25', 5 , ogposy5 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls35', 5 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls45', 5 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls6', 6 , ogposx6 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls26', 6 , ogposy6 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls36', 6 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls46', 6 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls7', 7 , ogposx7 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls27', 7 , ogposy7 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls37', 7 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls47', 7 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (82285.7142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 82285.7142857143) then
+			noteTweenX('balls4', 4 , ogposx4 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls24', 4 , ogposy4 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls34', 4 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls44', 4 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls1', 1 , ogposx1 + -100, 0.5 , 'quadInOut');
+			noteTweenY('balls21', 1 , ogposy1 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls31', 1 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls41', 1 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls3', 3 , ogposx3 + -100, 0.5 , 'quadInOut');
+			noteTweenY('balls23', 3 , ogposy3 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls33', 3 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls43', 3 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls0', 0 , ogposx0 + 100, 0.5 , 'quadInOut');
+			noteTweenY('balls20', 0 , ogposy0 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls30', 0 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls40', 0 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls2', 2 , ogposx2 + 100, 0.5 , 'quadInOut');
+			noteTweenY('balls22', 2 , ogposy2 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls32', 2 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls42', 2 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls5', 5 , ogposx5 + -100, 0.5 , 'quadInOut');
+			noteTweenY('balls25', 5 , ogposy5 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls35', 5 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls45', 5 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls7', 7 , ogposx7 + -100, 0.5 , 'quadInOut');
+			noteTweenY('balls27', 7 , ogposy7 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls37', 7 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls47', 7 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls6', 6 , ogposx6 + 100, 0.5 , 'quadInOut');
+			noteTweenY('balls26', 6 , ogposy6 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls36', 6 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls46', 6 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (96000 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 96000) then
+			noteTweenX('balls4', 4 , ogposx4 + 100, 0.5 , 'quadInOut');
+			noteTweenY('balls24', 4 , ogposy4 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls34', 4 , 90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls44', 4 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls0', 0 , ogposx0 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls20', 0 , ogposy0 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls30', 0 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls40', 0 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls1', 1 , ogposx1 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls21', 1 , ogposy1 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls31', 1 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls41', 1 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls2', 2 , ogposx2 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls22', 2 , ogposy2 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls32', 2 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls42', 2 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls3', 3 , ogposx3 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls23', 3 , ogposy3 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls33', 3 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls43', 3 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls4', 4 , ogposx4 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls24', 4 , ogposy4 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls34', 4 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls44', 4 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls7', 7 , ogposx7 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls27', 7 , ogposy7 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls37', 7 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls47', 7 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls6', 6 , ogposx6 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls26', 6 , ogposy6 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls36', 6 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls46', 6 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (123428.571428571 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 123428.571428571) then
+			noteTweenX('balls5', 5 , ogposx5 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls25', 5 , ogposy5 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls35', 5 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls45', 5 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls0', 0 , ogposx0 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls20', 0 , ogposy0 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls30', 0 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls40', 0 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls1', 1 , ogposx1 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls21', 1 , ogposy1 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls31', 1 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls41', 1 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls2', 2 , ogposx2 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls22', 2 , ogposy2 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls32', 2 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls42', 2 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls3', 3 , ogposx3 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls23', 3 , ogposy3 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls33', 3 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls43', 3 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls4', 4 , ogposx4 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls24', 4 , ogposy4 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls34', 4 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls44', 4 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls5', 5 , ogposx5 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls25', 5 , ogposy5 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls35', 5 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls45', 5 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls6', 6 , ogposx6 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls26', 6 , ogposy6 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls36', 6 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls46', 6 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (137142.857142857 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 137142.857142857) then
+			noteTweenX('balls7', 7 , ogposx7 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls27', 7 , ogposy7 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls37', 7 , -90, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls47', 7 , 0.25, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls0', 0 , ogposx0 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls20', 0 , ogposy0 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls30', 0 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls40', 0 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls1', 1 , ogposx1 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls21', 1 , ogposy1 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls31', 1 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls41', 1 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls2', 2 , ogposx2 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls22', 2 , ogposy2 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls32', 2 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls42', 2 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls3', 3 , ogposx3 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls23', 3 , ogposy3 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls33', 3 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls43', 3 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls5', 5 , ogposx5 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls25', 5 , ogposy5 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls35', 5 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls45', 5 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls4', 4 , ogposx4 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls24', 4 , ogposy4 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls34', 4 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls44', 4 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls7', 7 , ogposx7 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls27', 7 , ogposy7 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls37', 7 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls47', 7 , 100, 0.5 , 'quadInOut');
+		end
+	end
+if (150857.142857143 <= ballssimulatorroblox - 0.2) then
+		if (lastConductorPos <= 150857.142857143) then
+			noteTweenX('balls6', 6 , ogposx6 + 0, 0.5 , 'quadInOut');
+			noteTweenY('balls26', 6 , ogposy6 + 0, 0.5 , 'quadInOut');
+			noteTweenAngle('balls36', 6 , 0, 0.5 , 'quadInOut');
+			noteTweenAlpha('balls46', 6 , 100, 0.5 , 'quadInOut');
+		end
+	end
+
+	lastConductorPos = getSongPosition();
+end

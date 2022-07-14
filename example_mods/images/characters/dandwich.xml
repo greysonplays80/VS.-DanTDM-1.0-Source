@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dandwich.png"><SubTexture name="dandwich Left0000" x="448" y="0" width="270" height="220" frameX="0" frameY="0" frameWidth="270" frameHeight="220" />
+<SubTexture name="dandwich Right0000" x="0" y="224" width="272" height="221" frameX="0" frameY="0" frameWidth="272" frameHeight="221" />
+<SubTexture name="dandwich Idle0000" x="0" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="224" />
+<SubTexture name="dandwich Down0000" x="448" y="220" width="224" height="104" frameX="0" frameY="-120" frameWidth="224" frameHeight="224" />
+<SubTexture name="dandwich Up0000" x="224" y="0" width="224" height="224" frameX="0" frameY="0" frameWidth="224" frameHeight="500" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "menudan vibin",
+	"image": "menudan",
+	"position": [
+		250,
+		175
+	],
+	"scale": 0.7,
+	"confirm_anim": "menudan vibin"
+}

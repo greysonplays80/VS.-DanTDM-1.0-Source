@@ -1,0 +1,207 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Woah! What just happened?!",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "beep di bo?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "shocked",
+			"text": "Huh? Can you not talk?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "He's asking who you are.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Dan from TheDiamondMinecart.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "bep bidi Ryan beep bop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "talk",
+			"text": "I thought I had the portal set for Ryan's place.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "I must have miscalculated the latitude and longitude...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "Why latitude and longitude? That's kind of complicated.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bidee.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "talk",
+			"text": "It's a long story.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway, there's really no way to go back now. Gotta wait for the portal to cool down.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "Your portal has a cooldown period?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "Every single time we use it. Sucks, doesn't it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "beepi dipop, skidibop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "talk",
+			"text": "Babe, this guy seems kind of busy. I really don't think-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "skipidee boop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "talk",
+			"text": "Ugh, you're always so persistent!",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "He wants to rap battle you, sir. Since it looks like we're gonna be here a while.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I can't seem to find Trayaurus at the moment, and I can't really start without him.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "skipido pop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, what did you have planned?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "I was going to take the team on an awesome vacation. I have airline tickets and everything.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "Oof, that's rough. When is the plane due to take off?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, it's going to be a couple of days. No need to worry.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, that's a relief.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		},
+		{
+			"expression": "talk",
+			"text": "You know what, little buddy? I can rap battle you while I have the time.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "dan"
+		},
+		{
+			"expression": "talk",
+			"text": "beep dibo!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bff"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, let's see what you've got!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gff"
+		}
+	]
+}

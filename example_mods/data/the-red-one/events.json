@@ -1,0 +1,229 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "lab",
+		"player1": "bf",
+		"player2": "sourdan",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				88.2352941176471,
+				[
+					[
+						"flash",
+						"theredonetext",
+						"11"
+					]
+				]
+			],
+			[
+				11294.1176470588,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				33882.3529411765,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						""
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"redbeandan"
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sourdan"
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tireddan"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alldan"
+					]
+				]
+			],
+			[
+				125647.058823529,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sourdan"
+					]
+				]
+			],
+			[
+				126352.94117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"redbeandan"
+					]
+				]
+			],
+			[
+				127058.823529412,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tireddan"
+					]
+				]
+			],
+			[
+				127764.705882353,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alldan"
+					]
+				]
+			],
+			[
+				128470.588235294,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sourdan"
+					]
+				]
+			],
+			[
+				131294.117647059,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alldan"
+					]
+				]
+			],
+			[
+				132705.882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sourdan"
+					]
+				]
+			],
+			[
+				135529.411764706,
+				[
+					[
+						"Change Character",
+						"dad",
+						"redbeandan"
+					]
+				]
+			],
+			[
+				136235.294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tireddan"
+					]
+				]
+			],
+			[
+				136941.176470588,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sourdan"
+					]
+				]
+			],
+			[
+				158735.294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"redbeandan"
+					]
+				]
+			],
+			[
+				159088.235294117,
+				[
+					[
+						"Change Character",
+						"1",
+						"tireddan"
+					]
+				]
+			],
+			[
+				160941.176470588,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sourdan"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "the-red-one"
+	}
+}

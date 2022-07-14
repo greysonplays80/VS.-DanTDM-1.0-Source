@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DCB.png"><SubTexture name="DCB DCB Idle0000" x="0" y="0" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Idle0001" x="804" y="0" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Idle0002" x="1608" y="0" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Idle0003" x="2412" y="0" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Idle0004" x="0" y="704" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Idle0005" x="804" y="704" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Prepare0000" x="1608" y="704" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Prepare0001" x="2412" y="704" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Prepare0002" x="0" y="1408" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Prepare0003" x="804" y="1408" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Prepare0004" x="1608" y="1408" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Prepare0005" x="2412" y="1408" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Press0000" x="0" y="2112" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Press0001" x="804" y="2112" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Press0002" x="1608" y="2112" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Press0003" x="2412" y="2112" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Press0004" x="0" y="2816" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+<SubTexture name="DCB DCB Press0005" x="804" y="2816" width="804" height="704" frameX="0" frameY="0" frameWidth="804" frameHeight="704" />
+</TextureAtlas>

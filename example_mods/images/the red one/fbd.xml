@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fbd.png"><SubTexture name="fbd Down0000" x="0" y="0" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="fbd Idle0000" x="804" y="0" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="fbd Left0000" x="0" y="454" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="fbd Right0000" x="804" y="454" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="fbd Up0000" x="0" y="908" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+</TextureAtlas>

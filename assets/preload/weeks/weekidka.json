@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Wee",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stag",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Totally Verified",
+			"face",
+			[
+				6,
+				113,
+				0
+			]
+		],
+		[
+			"Gamer Land",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Wee"
+}

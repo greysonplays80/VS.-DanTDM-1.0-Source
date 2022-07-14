@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fbd Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fbd Down"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fbd Up"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fbd Right"
+		},
+		{
+			"offsets": [
+				-6,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fbd Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "the red one/fbd",
+	"position": [
+		-20,
+		260
+	],
+	"healthicon": "realdan",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		192,
+		238
+	],
+	"camera_position": [
+		-80,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

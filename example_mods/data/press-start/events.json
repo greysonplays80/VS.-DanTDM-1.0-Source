@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "lab",
+		"player1": "dbf",
+		"player2": "dantdm",
+		"player3": null,
+		"events": [
+			[
+				14634.1463414634,
+				[
+					[
+						"flash",
+						"start",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-dtdm",
+		"bpm": 123,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "press-start"
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menubf.png"><SubTexture name="menubf vibin0000" x="512" y="382" width="256" height="365" frameX="-116" frameY="-128" frameWidth="512" frameHeight="512" />
+<SubTexture name="menubf vibin0001" x="256" y="382" width="256" height="367" frameX="-116" frameY="-126" frameWidth="512" frameHeight="512" />
+<SubTexture name="menubf vibin0002" x="0" y="382" width="256" height="369" frameX="-116" frameY="-124" frameWidth="512" frameHeight="512" />
+<SubTexture name="menubf vibin0003" x="514" y="0" width="257" height="371" frameX="-116" frameY="-122" frameWidth="512" frameHeight="512" />
+<SubTexture name="menubf vibin0004" x="257" y="0" width="257" height="374" frameX="-116" frameY="-119" frameWidth="512" frameHeight="512" />
+<SubTexture name="menubf vibin0005" x="0" y="0" width="257" height="382" frameX="-116" frameY="-111" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

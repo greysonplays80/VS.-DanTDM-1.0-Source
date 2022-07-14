@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "EEthan Idle"
+		},
+		{
+			"offsets": [
+				-16,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EEthan Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EEthan Down"
+		},
+		{
+			"offsets": [
+				0,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EEthan Up"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EEthan Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EEthan",
+	"position": [
+		-380,
+		-270
+	],
+	"healthicon": "ethan",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		15,
+		60
+	],
+	"camera_position": [
+		170,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

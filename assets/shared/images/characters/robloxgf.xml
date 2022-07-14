@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robloxgf.png"><SubTexture name="robloxgf danceLeft0000" x="620" y="448" width="620" height="447" frameX="-192" frameY="-292" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceLeft0001" x="1241" y="0" width="620" height="446" frameX="-192" frameY="-293" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceLeft0002" x="0" y="896" width="620" height="444" frameX="-192" frameY="-295" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceLeft0003" x="620" y="896" width="620" height="443" frameX="-192" frameY="-296" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceLeft0004" x="1241" y="446" width="620" height="446" frameX="-192" frameY="-293" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceRight0000" x="0" y="0" width="621" height="448" frameX="-192" frameY="-291" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceRight0001" x="621" y="0" width="620" height="448" frameX="-192" frameY="-291" frameWidth="1012" frameHeight="839" />
+<SubTexture name="robloxgf danceRight0002" x="0" y="448" width="620" height="448" frameX="-192" frameY="-291" frameWidth="1012" frameHeight="839" />
+</TextureAtlas>

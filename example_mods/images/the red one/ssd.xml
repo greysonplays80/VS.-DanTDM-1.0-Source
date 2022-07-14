@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ssd.png"><SubTexture name="ssd Down0000" x="0" y="0" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="ssd Idle0000" x="804" y="0" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="ssd Left0000" x="0" y="454" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="ssd Right0000" x="804" y="454" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+<SubTexture name="ssd idle0000" x="0" y="908" width="804" height="454" frameX="0" frameY="0" frameWidth="804" frameHeight="454" />
+</TextureAtlas>

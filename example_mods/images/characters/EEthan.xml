@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EEthan.png"><SubTexture name="EEthan Idle0000" x="1458" y="1989" width="389" height="958" frameX="-478" frameY="-135" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Idle0001" x="2847" y="976" width="381" height="973" frameX="-487" frameY="-121" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Idle0002" x="2467" y="0" width="380" height="980" frameX="-489" frameY="-112" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Idle0003" x="0" y="1000" width="370" height="989" frameX="-490" frameY="-104" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Idle0004" x="0" y="0" width="360" height="1000" frameX="-490" frameY="-91" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Left0000" x="370" y="1000" width="709" height="986" frameX="-197" frameY="-106" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Left0001" x="0" y="1989" width="727" height="972" frameX="-202" frameY="-123" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Left0002" x="727" y="1989" width="731" height="964" frameX="-209" frameY="-133" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Down0000" x="1847" y="1989" width="570" height="939" frameX="-381" frameY="-116" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Down0001" x="2417" y="1989" width="590" height="933" frameX="-375" frameY="-123" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Down0002" x="3467" y="0" width="626" height="926" frameX="-364" frameY="-133" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Up0000" x="360" y="0" width="720" height="995" frameX="-241" frameY="-154" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Up0001" x="1716" y="0" width="751" height="990" frameX="-244" frameY="-161" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Up0002" x="1079" y="1000" width="741" height="985" frameX="-244" frameY="-168" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Right0000" x="1080" y="0" width="636" height="992" frameX="-243" frameY="-121" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Right0001" x="1820" y="1000" width="628" height="984" frameX="-250" frameY="-131" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="EEthan Right0002" x="2847" y="0" width="620" height="976" frameX="-258" frameY="-141" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

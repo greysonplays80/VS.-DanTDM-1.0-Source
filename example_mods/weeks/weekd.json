@@ -1,0 +1,49 @@
+{
+	"storyName": "Welcome Back to Another Video",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "lab",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Big Scene",
+			"dan",
+			[
+				106,
+				113,
+				253
+			]
+		],
+		[
+			"Tomodachi",
+			"dan",
+			[
+				106,
+				113,
+				253
+			]
+		],
+		[
+			"Press Start",
+			"dan",
+			[
+				106,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekd"
+}

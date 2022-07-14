@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gftalk.png"><SubTexture name="gftalk vibin0000" x="0" y="0" width="203" height="463" frameX="-180" frameY="-49" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0001" x="406" y="0" width="203" height="460" frameX="-180" frameY="-52" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0002" x="203" y="463" width="203" height="456" frameX="-180" frameY="-56" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0003" x="0" y="463" width="203" height="457" frameX="-180" frameY="-55" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0004" x="812" y="0" width="203" height="458" frameX="-180" frameY="-54" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0005" x="609" y="0" width="203" height="459" frameX="-180" frameY="-53" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0006" x="203" y="0" width="203" height="461" frameX="-180" frameY="-51" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0007" x="406" y="463" width="203" height="456" frameX="-180" frameY="-56" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0008" x="609" y="463" width="203" height="448" frameX="-180" frameY="-64" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0009" x="812" y="463" width="203" height="445" frameX="-180" frameY="-67" frameWidth="512" frameHeight="512" />
+<SubTexture name="gftalk vibin0010" x="1015" y="0" width="203" height="445" frameX="-180" frameY="-67" frameWidth="512" frameHeight="512" />
+</TextureAtlas>
